@@ -29,14 +29,20 @@ This is a microverse approach to replicate some of the ruby enumerable methods
 
 * Execute the `app.rb` file
 
+## How to run the test cases
+
+- Open a command line terminal on the project root folder
+- Run `bundle install` to install the gems
+- Run `bundle exec rspec` to run all the test cases
+
 ## Authors
 
-👤 **Author1**
+👤 **Author1 - Juan David Piza**
 
 - GitHub: [JuanDavid31](https://github.com/JuanDavid31)
-- Github: [Juan David Piza](https://twitter.com/jdpw31)
+- Twitter: [Juan David Piza](https://twitter.com/jdpw31)
 
-👤 **Author2**
+👤 **Author2 - Chukwuma Obasi**
 
 - GitHub: [ccobasi](https://github.com/ccobasi)
 
