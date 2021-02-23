@@ -37,12 +37,12 @@ This is a microverse approach to replicate some of the ruby enumerable methods
 
 ## Authors
 
-👤 **Author1**
+👤 **Author1 - Juan David Piza**
 
 - GitHub: [JuanDavid31](https://github.com/JuanDavid31)
-- Github: [Juan David Piza](https://twitter.com/jdpw31)
+- Twitter: [Juan David Piza](https://twitter.com/jdpw31)
 
-👤 **Author2**
+👤 **Author2 - Chukwuma Obasi**
 
 - GitHub: [ccobasi](https://github.com/ccobasi)
 
